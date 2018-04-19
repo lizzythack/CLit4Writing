@@ -1,0 +1,191 @@
+
+
+ body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/* The hero image */
+.hero-image {
+    /* The image used */
+    background-image: url("Banner.jpg");
+
+    /* Set a specific height */
+    height: 300px;
+    width: auto;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Roboto Slab', serif;
+    color: aquamarine;
+    text-shadow: -1.2px 0 black, 0 1.2px black, 1.2px 0 black, 0 -1.2px black;
+    font-size: 0.5em; 
+    font-weight: 600; 
+    
+}
+    .header {
+      text-align: center;
+      font-size: 100px;
+      font-family: 'Roboto Slab', serif;
+      color: darkslategray; 
+    }
+
+    /* Style the grid elements */
+    .grid {
+      padding: 75px 75px 75px 75px;
+      height: 225px;
+      margin: 10px 10px 10px 10px;
+      background-color:aquamarine; 
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+    
+.grid1 {
+      background-image: url("AboutMe.jpg");
+      padding: 75px 75px 75px 75px;
+      height: 225px;
+      margin: 10px 0px 0px 0px;
+      background-color:transparent; 
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center; 
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+
+.grid2 {
+      background-image: url("Teacher3.jpg");
+      padding: 75px 75px 75px 75px;
+      margin: 10px 0px 0px 0px;
+      height: 225px;
+      background-color:transparent;
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center;
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+
+.grid3 {
+      background-image: url("Student2.jpg");
+      padding: 75px 75px 75px 75px;
+      height: 225px;
+      margin: 10px 0px 0px 0px;
+      background-color:transparent;
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center;
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+
+.grid4 {
+      background-image: url("Argumentative.jpg");
+      padding: 75px 75px 75px 75px;
+      margin: 10px 0px 0px 0px;
+      height: 225px;
+      background-color:transparent;
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center;
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+
+.grid5 {
+      background-image: url("Informational5.jpg");
+      padding: 75px 75px 75px 75px;
+      margin: 10px 0px 0px 0px;
+      height: 225px;
+      background-color:transparent;
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center;
+      font-family: 'Open Sans', sans-serif; 
+      text-align: center; 
+    }
+
+.grid6 {
+      background-image: url("Narrative.jpg");
+      padding: 75px 75px 75px 75px;
+      margin: 10px 0px 0px 0px;
+      height: 225px;
+      background-color:transparent;
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center;
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+
+.grid7 {
+      background-image: url("Poetry.jpg");
+      padding: 75px 75px 75px 75px;
+      margin: 10px 0px 0px 0px;
+      height: 225px;
+      background-color:transparent; 
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center;
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+
+.grid8 {
+      background-image: url("Grammar.jpg");
+      padding: 75px 75px 75px 75px;
+      margin: 10px 0px 0px 0px;
+      height: 225px;
+      background-color:transparent;
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center;
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+
+.grid9 {
+      background-image: url("AdditionalResources.jpg");
+      padding: 75px 75px 75px 75px;
+      margin: 10px 0px 0px 0px;
+      height: 225px;
+      background-color:transparent; 
+      background-size: 400px; 
+      background-repeat: no-repeat; 
+      background-position: center;
+      font-family: 'Open Sans', sans-serif;
+      text-align: center; 
+    }
+
+
+.nav-link {
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        color: white 
+    }
+
+
+
+
+
+     
+
+
+
+
+
+
+
+    
